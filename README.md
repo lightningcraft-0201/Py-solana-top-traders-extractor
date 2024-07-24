@@ -3,6 +3,10 @@
 ## Overview
 This project is designed to extract top trader information from the DexScreener platform for the Solana blockchain. It utilizes Selenium for web scraping to gather wallet addresses and corresponding Solscan URLs of the top traders.
 
+## Video Preview
+[![Video Preview](https://github.com/zima-0201/Project-Images/blob/main/video%20preview/Py-solana-top-traders-extractor.jpeg)](https://autobuffy-ebay.s3.eu-north-1.amazonaws.com/Detroit+Axle/Py-solana-top-traders-extractor.mp4)
+
+
 ## Features
 - **Headless Browser Automation:** Uses Selenium with headless Chrome to scrape data without opening a visible browser window.
 - **Dynamic Content Handling:** Waits for the page to load fully before scraping to ensure all dynamic content is captured.
